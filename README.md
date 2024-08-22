@@ -1,4 +1,4 @@
-# lifycycle
+# lifecycle
 
 <h1 align=center>轮(缘)回 </h1>
 
